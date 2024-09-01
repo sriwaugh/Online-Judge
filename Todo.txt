@@ -1,0 +1,15 @@
+Planning to rebuild this from scratch...
+building a separate interface for adding problems, viewing scores etc...
+Build a score board
+Build a contest page
+
+
+
+Admin can create contest and can add set of problems. Also grab a good set of probs from Codeforces (us CF api)
+After setting the contest, students login the portal using their mail, (also try to add other form of authentication) to solve those probs 
+in given time span...
+
+
+
+Write a ranking algorithm to rank the students based on the time consumed, number of probs solved etc.
+Try to add a full credit score after each contest.
